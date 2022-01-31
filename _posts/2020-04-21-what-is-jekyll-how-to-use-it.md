@@ -1,2 +1,2 @@
-title: Sample Post
+title: Sample Post no 3
 layout: post
